@@ -6,6 +6,8 @@ public class demo1 {
 		System.out.println("demo1");
 		System.out.println("2");
 		System.out.println("3");
+		System.err.println("4");
+		
 	}
 	
 }
